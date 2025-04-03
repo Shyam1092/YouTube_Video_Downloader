@@ -48,7 +48,7 @@ A powerful and feature-rich Python script for downloading YouTube videos with mu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
+   git clone [https://github.com/Shyam1092/YouTube_Video_Downloader]
    cd youtube-downloader
    ```
 
